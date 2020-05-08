@@ -1,0 +1,27 @@
+<style>
+h2 {
+    font-size: 50px;
+        font-family: "Open Sans Condensed", sans-serif;
+       text-align: center;
+       color: #ff6347;
+}
+p {
+    font-size: 25px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: white;
+    text-align: justify;
+}
+img {
+  width: 333px;
+  height: 520px;
+  object-fit: scale-down;
+}
+div style text-align {
+    right: 10px;
+}
+section {
+   width: 1000px;
+  margin: auto;
+}
+</style>
